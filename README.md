@@ -1,9 +1,3 @@
-<style>
-  padding:1px;
-  border:10px brown;
-  border-radius:4px;
-  border-colour:red;
-  </style>
 ### Hi Khalid Siddique here 👋
 
 
@@ -11,7 +5,7 @@
 - 🔭 I’m currently working on Machine Learning Projects...
 - 🌱 I’m currently learning Deep Learning...
 - 💬 Ask me about getting started with Data Analytics and Data Science...
-- 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/md-khalid-siddique/)...
+- 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/md-khalid-siddique/)...</style>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Mdkhalidsiddique&&show_icons=true&title_color=solid crimson_color=navy blue_color=rgb(128 128 0)_color=red" >
+<img src = "https://github-readme-stats.vercel.app/api?username=Mdkhalidsiddique&&show_icons=true&title_color=solid crimson_color=navy blue_color=rgb(128 128 0)_color=red_background color=light pink"
 
