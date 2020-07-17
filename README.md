@@ -7,5 +7,5 @@
 - 💬 Ask me about getting started with Data Analytics and Data Science...
 - 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/md-khalid-siddique/)...</style>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Mdkhalidsiddique&&show_icons=true&title_color=solid crimson_color=navy blue_color=rgb(128 128 0)_color=red_background-colour=pink">
+<img src = "https://github-readme-stats.vercel.app/api?username=Mdkhalidsiddique&&show_icons=true&title_color=solid crimson_color=navy blue_color=rgb(128 128 0)_color=red_">
 
