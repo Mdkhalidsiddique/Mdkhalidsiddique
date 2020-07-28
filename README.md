@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Machine Learning Projects.
 - 🌱 I’m currently learning Deep Learning.
 
-- 💬 Ask me about getting started with Data Analytics and Data Science.
+- 💬 Ask me about getting started with Data Science and Machine Learning.
 
 - 📫 Connect with me:[Linkedin](https://www.linkedin.com/in/md-khalid-siddique/)
 
