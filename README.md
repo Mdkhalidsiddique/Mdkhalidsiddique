@@ -1,8 +1,8 @@
 ### Hi Khalid Siddique here 👋
 
 
-- Am a final year Mechanical Engineering student, I help students to build their future in ML.
-- 🔭 I’m currently working on Machine Learning Projects.
+- Am a final year Mechanical Engineering student.
+- 🔭 I’m currently mentoring students to learn Data Science and ML.
 - 🌱 I’m currently learning Deep Learning.
 
 - 💬 Ask me about getting started with Data Science and Machine Learning.
